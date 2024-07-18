@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/revyn-pradana-putra-136228215/" title="Redirect to linkedin">
+  <a href="https://www.linkedin.com/in/revyn-pradana-putra-136228215/" target="_blank" title="Redirect to linkedin">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/revynpp.vue/" title="Redirect to instagram">
+  <a href="https://www.instagram.com/revynpp.vue/" target="_blank" title="Redirect to instagram">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
   </a>
   <a href="mailto:revyn.pradana@ti.ukdw.ac.id" title="Redirect to gmail">
